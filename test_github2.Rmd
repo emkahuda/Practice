@@ -19,7 +19,5 @@ summary(cars)
 ```{r}
 plot(cars2)
 ```
-```{r}
-plot(cars)
-```
+
 
