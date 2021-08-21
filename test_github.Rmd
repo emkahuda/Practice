@@ -31,6 +31,9 @@ cars
 ```{r}
 plot(cars)
 ```
+```{r}
+plot(cars2)
+```
 
 
 
